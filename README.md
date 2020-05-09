@@ -89,7 +89,7 @@ Durante el desarrollo del proyecto hemos utilizado una combinacion de datasets p
 
 ### Datasets Propios <a name="customdata"></a>
 
-Para complementar el entrenamiento de los modelos desarrollados y entrenados con los datasets públicos ya mencionados, generamos con fotos propias de los miembros del equipo y con colaboración de los compañeros de EDEM otros datasets con fotos mas enfocadas a los casos de uso que quiere detectar nuestros algoritmos de imagenconn el fin de mejorar la precisión y rapidez de nuestros modelos:
+Para complementar el entrenamiento de los modelos desarrollados y entrenados con los datasets públicos ya mencionados, generamos con fotos propias de los miembros del equipo y con colaboración de nuestros compañeros otros datasets con fotos mas enfocadas a los casos de uso que quiere detectar nuestros algoritmos de imagenconn el fin de mejorar la precisión y rapidez de nuestros modelos:
 
 * Fotos de personas tocándose la cara
 * Fotos de personas con mascarillas
